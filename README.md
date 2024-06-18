@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm an upcoming Software Developer for Aerospace Engineering Systems ;)
+
 
 <!--
 **vishhh17/vishhh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
